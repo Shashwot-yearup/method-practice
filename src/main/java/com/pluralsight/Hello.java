@@ -21,6 +21,6 @@ public class Hello {
     }
 
     public static void GoodMorning(){
-        System.out.println("Good Morning!");
+        System.out.println("Good Morning");
     }
 }
